@@ -1,0 +1,12 @@
+.div{
+    display: flex-row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    
+    
+}
+.perfil{
+    margin:50px;
+}
+

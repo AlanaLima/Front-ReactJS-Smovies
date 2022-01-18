@@ -1,0 +1,12 @@
+input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.infos{
+    
+    margin-right:300px;
+}
+.all{
+    display: flex;
+}

@@ -1,0 +1,13 @@
+
+img{
+    height:200px;
+    width: 200px
+}
+.pagina{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    margin-right: 30px;
+}

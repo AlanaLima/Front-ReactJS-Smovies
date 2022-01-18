@@ -1,0 +1,12 @@
+.cabecalho{
+    display:flex;
+    justify-content: center;
+    
+}
+.perfil{
+    display: flex;
+}
+.filmes{
+    display:flex;
+    justify-content: space-between;
+}
